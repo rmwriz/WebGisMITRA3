@@ -1,0 +1,1 @@
+var json_KESEHATAN_20 = {"type":"FeatureCollection","name":"KESEHATAN_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"Puskesmas Molompar","Fasilitas":"Puskesmas"},"geometry":{"type":"MultiPoint","coordinates":[[124.726923806971911,1.027505182498715]]}}]}
